@@ -1,5 +1,6 @@
 # m2i-jour2
 Début modification
+Titre
 On a cru longtemps que ce latin ne voulait rien dire mais un latiniste du Hampden-Sydney College (Virginie), Richard McClintock, actuellement directeur des publications de cette institution, a lancé une recherche en ligne sur un mot peu fréquent du lorem ipsum « consectetur » et a ainsi découvert un environnement de texte correspondant au De finibus de Cicéron (1.10.32). Cette découverte fut signalée en 1993 par une lettre au responsable de la revue de graphisme Before & After en réponse à un article (Vol. 3, n°6) où il était dit que ce latin ne voulait rien dire. Cette réfutation est parue dans le numéro 1 du volume 4 de 1994.
 
 Ces informations m’ont été communiquées par Richard McClintock lui-même qui ajoutait que « récemment, j’ai découvert que dans l’édition de la Loeb Classical Library [qui est l’équivalent en langue anglaise des éditions Guillaume Budé] du De Finibus, publiée en 1914, le texte est réparti sur la page de telle sorte qu’une page finit par Neque porro quisquam est qui do– et que la page suivant commence avec exactement notre texte lorem ipsum quia dolor sit..On peut se demander si c’est l’épreuve de cette page qui a été brouillée »
